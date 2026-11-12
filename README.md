@@ -6,32 +6,32 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/rex/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rex?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/rex/issues"><img src="https://img.shields.io/github/issues/catppuccin/rex?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/rex/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rex?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/yahddyyp/rex/stargazers"><img src="https://img.shields.io/github/stars/yahddyyp/rex?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/yahddyyp/rex/issues"><img src="https://img.shields.io/github/issues/yahddyyp/rex?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/yahddyyp/rex/contributors"><img src="https://img.shields.io/github/contributors/yahddyyp/rex?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
@@ -39,12 +39,12 @@
 1. Download the flavor of your choice from [`themes/`](./themes/).
 
 >[!NOTE]
-> You can skip step 1 if you already have Ghostty installed as the import button will allow you to use the themes which **Ghostty** already has.
+> You can skip step 1 if you already have Ghostty installed as the import button will allow you to use the themes which Ghostty already has.
 
-2. Open up Rex and go to settings.
-3. Navigate to Themes > Import > Import a Ghostty or iTerm theme file and click the **Import** button.
-4. Navigate to where you downloaded and select it.
-5. The theme now should be avalible for use in the custom themes section.
+2. Open up Rex and go to **settings**.
+3. Navigate to **Themes > Import > Import a Ghostty or iTerm theme file** and click **Import**.
+4. Navigate to where you downloaded the theme and select it.
+5. The theme now should be available for use in the custom themes section.
 
 ## 💝 Thanks to
 
@@ -52,8 +52,6 @@
 
 &nbsp;
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
 <p align="center">
