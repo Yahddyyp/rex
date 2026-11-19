@@ -41,7 +41,7 @@
 >[!NOTE]
 > You can skip step 1 if you already have Ghostty installed as the import button will allow you to use the themes which Ghostty already has.
 
-2. Open up Rex and go to **settings**.
+2. Open up Rex and go to **Settings**.
 3. Navigate to **Themes > Import > Import a Ghostty or iTerm theme file** and click **Import**.
 4. Navigate to where you downloaded the theme and select it.
 5. The theme now should be available for use in the custom themes section.
